@@ -1,0 +1,1001 @@
+name,role,target_role,experience,skills,certifications
+Akash,HR Executive,HR Manager,6,"Recruitment,HRMS,Compliance",SHRM-CP
+Meera,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Ravi,Data Analyst,Senior Analyst,9,"Python,SQL,Power BI",Azure DP-900
+Tarun,Data Scientist,Senior Data Scientist,7,"Python,ML,Statistics",IBM Data Science
+Deepak,DevOps Engineer,Senior DevOps Engineer,6,"AWS,Docker,Kubernetes",AWS DevOps
+Kavya,ML Engineer,Senior ML Engineer,2,"Python,ML,AI",AWS ML
+Pooja,Data Scientist,Senior Data Scientist,7,"Python,ML,Statistics",IBM Data Science
+Divya,Data Scientist,Senior Data Scientist,10,"Python,ML,Statistics",IBM Data Science
+Arjun,Data Analyst,Senior Analyst,4,"Python,SQL,Power BI",Azure DP-900
+Divya,QA Engineer,QA Lead,7,"Selenium,API Testing",ISTQB
+Anjali,QA Engineer,QA Lead,1,"Selenium,API Testing",ISTQB
+Amit,Data Analyst,Senior Analyst,8,"Python,SQL,Power BI",Azure DP-900
+Pooja,QA Engineer,QA Lead,1,"Selenium,API Testing",ISTQB
+Deepak,Product Manager,Senior Product Manager,12,"Roadmap,Agile,OKRs",CSPO
+Akash,DevOps Engineer,Senior DevOps Engineer,10,"AWS,Docker,Kubernetes",AWS DevOps
+Alka,Data Scientist,Senior Data Scientist,2,"Python,ML,Statistics",IBM Data Science
+Arjun,QA Engineer,QA Lead,12,"Selenium,API Testing",ISTQB
+Tarun,Software Engineer,Senior Software Engineer,1,"Java,Spring,SQL",Oracle Java
+Amit,Business Analyst,Lead Analyst,12,"Excel,SQL,Stakeholder Mgmt",CBAP
+Amit,HR Executive,HR Manager,7,"Recruitment,HRMS,Compliance",SHRM-CP
+Ritika,QA Engineer,QA Lead,2,"Selenium,API Testing",ISTQB
+Priya,Data Analyst,Senior Analyst,6,"Python,SQL,Power BI",Azure DP-900
+Sneha,Product Manager,Senior Product Manager,1,"Roadmap,Agile,OKRs",CSPO
+Isha,Data Analyst,Senior Analyst,2,"Python,SQL,Power BI",Azure DP-900
+Isha,Data Analyst,Senior Analyst,8,"Python,SQL,Power BI",Azure DP-900
+Deepak,DevOps Engineer,Senior DevOps Engineer,3,"AWS,Docker,Kubernetes",AWS DevOps
+Meera,Product Manager,Senior Product Manager,12,"Roadmap,Agile,OKRs",CSPO
+Rohit,HR Executive,HR Manager,5,"Recruitment,HRMS,Compliance",SHRM-CP
+Sahil,Software Engineer,Senior Software Engineer,3,"Java,Spring,SQL",Oracle Java
+Isha,UI Designer,UX Lead,10,"Figma,UX,Wireframing",Google UX
+Swati,Product Manager,Senior Product Manager,1,"Roadmap,Agile,OKRs",CSPO
+Divya,DevOps Engineer,Senior DevOps Engineer,4,"AWS,Docker,Kubernetes",AWS DevOps
+Varun,Data Analyst,Senior Analyst,12,"Python,SQL,Power BI",Azure DP-900
+Meera,Software Engineer,Senior Software Engineer,5,"Java,Spring,SQL",Oracle Java
+Priya,Data Scientist,Senior Data Scientist,10,"Python,ML,Statistics",IBM Data Science
+Swati,DevOps Engineer,Senior DevOps Engineer,12,"AWS,Docker,Kubernetes",AWS DevOps
+Tarun,Product Manager,Senior Product Manager,12,"Roadmap,Agile,OKRs",CSPO
+Deepak,Product Manager,Senior Product Manager,6,"Roadmap,Agile,OKRs",CSPO
+Sneha,Business Analyst,Lead Analyst,5,"Excel,SQL,Stakeholder Mgmt",CBAP
+Nisha,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Rahul,Data Scientist,Senior Data Scientist,12,"Python,ML,Statistics",IBM Data Science
+Karan,UI Designer,UX Lead,5,"Figma,UX,Wireframing",Google UX
+Pooja,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Vikas,Data Scientist,Senior Data Scientist,8,"Python,ML,Statistics",IBM Data Science
+Nisha,Business Analyst,Lead Analyst,5,"Excel,SQL,Stakeholder Mgmt",CBAP
+Ritika,HR Executive,HR Manager,10,"Recruitment,HRMS,Compliance",SHRM-CP
+Deepak,ML Engineer,Senior ML Engineer,1,"Python,ML,AI",AWS ML
+Arjun,Software Engineer,Senior Software Engineer,5,"Java,Spring,SQL",Oracle Java
+Arjun,Business Analyst,Lead Analyst,12,"Excel,SQL,Stakeholder Mgmt",CBAP
+Arjun,Software Engineer,Senior Software Engineer,12,"Java,Spring,SQL",Oracle Java
+Akash,Product Manager,Senior Product Manager,2,"Roadmap,Agile,OKRs",CSPO
+Anjali,Data Analyst,Senior Analyst,11,"Python,SQL,Power BI",Azure DP-900
+Naveen,Data Scientist,Senior Data Scientist,5,"Python,ML,Statistics",IBM Data Science
+Akash,Data Scientist,Senior Data Scientist,7,"Python,ML,Statistics",IBM Data Science
+Deepak,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Divya,Software Engineer,Senior Software Engineer,3,"Java,Spring,SQL",Oracle Java
+Swati,ML Engineer,Senior ML Engineer,11,"Python,ML,AI",AWS ML
+Simran,Business Analyst,Lead Analyst,8,"Excel,SQL,Stakeholder Mgmt",CBAP
+Ritika,HR Executive,HR Manager,10,"Recruitment,HRMS,Compliance",SHRM-CP
+Varun,Data Analyst,Senior Analyst,10,"Python,SQL,Power BI",Azure DP-900
+Anjali,Data Scientist,Senior Data Scientist,10,"Python,ML,Statistics",IBM Data Science
+Neha,Product Manager,Senior Product Manager,4,"Roadmap,Agile,OKRs",CSPO
+Amit,Business Analyst,Lead Analyst,11,"Excel,SQL,Stakeholder Mgmt",CBAP
+Arjun,Data Analyst,Senior Analyst,1,"Python,SQL,Power BI",Azure DP-900
+Rahul,Data Scientist,Senior Data Scientist,8,"Python,ML,Statistics",IBM Data Science
+Tarun,Software Engineer,Senior Software Engineer,5,"Java,Spring,SQL",Oracle Java
+Deepak,Software Engineer,Senior Software Engineer,8,"Java,Spring,SQL",Oracle Java
+Ritika,ML Engineer,Senior ML Engineer,8,"Python,ML,AI",AWS ML
+Ritika,Business Analyst,Lead Analyst,1,"Excel,SQL,Stakeholder Mgmt",CBAP
+Kavya,Software Engineer,Senior Software Engineer,6,"Java,Spring,SQL",Oracle Java
+Naveen,Data Scientist,Senior Data Scientist,3,"Python,ML,Statistics",IBM Data Science
+Akash,DevOps Engineer,Senior DevOps Engineer,2,"AWS,Docker,Kubernetes",AWS DevOps
+Suresh,Business Analyst,Lead Analyst,12,"Excel,SQL,Stakeholder Mgmt",CBAP
+Swati,Software Engineer,Senior Software Engineer,4,"Java,Spring,SQL",Oracle Java
+Karan,HR Executive,HR Manager,7,"Recruitment,HRMS,Compliance",SHRM-CP
+Naveen,Business Analyst,Lead Analyst,11,"Excel,SQL,Stakeholder Mgmt",CBAP
+Sahil,Data Analyst,Senior Analyst,6,"Python,SQL,Power BI",Azure DP-900
+Naveen,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Meera,DevOps Engineer,Senior DevOps Engineer,12,"AWS,Docker,Kubernetes",AWS DevOps
+Neha,ML Engineer,Senior ML Engineer,9,"Python,ML,AI",AWS ML
+Vikas,Data Scientist,Senior Data Scientist,3,"Python,ML,Statistics",IBM Data Science
+Manish,ML Engineer,Senior ML Engineer,3,"Python,ML,AI",AWS ML
+Nisha,Product Manager,Senior Product Manager,9,"Roadmap,Agile,OKRs",CSPO
+Nisha,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Nisha,Data Scientist,Senior Data Scientist,1,"Python,ML,Statistics",IBM Data Science
+Sneha,Product Manager,Senior Product Manager,5,"Roadmap,Agile,OKRs",CSPO
+Mohit,Data Analyst,Senior Analyst,8,"Python,SQL,Power BI",Azure DP-900
+Vikas,Data Scientist,Senior Data Scientist,11,"Python,ML,Statistics",IBM Data Science
+Suresh,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Isha,Data Analyst,Senior Analyst,7,"Python,SQL,Power BI",Azure DP-900
+Alka,Data Scientist,Senior Data Scientist,4,"Python,ML,Statistics",IBM Data Science
+Nisha,Business Analyst,Lead Analyst,12,"Excel,SQL,Stakeholder Mgmt",CBAP
+Swati,Data Scientist,Senior Data Scientist,1,"Python,ML,Statistics",IBM Data Science
+Karan,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Manish,DevOps Engineer,Senior DevOps Engineer,2,"AWS,Docker,Kubernetes",AWS DevOps
+Naveen,Software Engineer,Senior Software Engineer,7,"Java,Spring,SQL",Oracle Java
+Sneha,ML Engineer,Senior ML Engineer,8,"Python,ML,AI",AWS ML
+Alka,Software Engineer,Senior Software Engineer,1,"Java,Spring,SQL",Oracle Java
+Rohit,QA Engineer,QA Lead,12,"Selenium,API Testing",ISTQB
+Varun,Data Analyst,Senior Analyst,2,"Python,SQL,Power BI",Azure DP-900
+Simran,DevOps Engineer,Senior DevOps Engineer,8,"AWS,Docker,Kubernetes",AWS DevOps
+Priya,ML Engineer,Senior ML Engineer,9,"Python,ML,AI",AWS ML
+Isha,DevOps Engineer,Senior DevOps Engineer,6,"AWS,Docker,Kubernetes",AWS DevOps
+Akash,HR Executive,HR Manager,12,"Recruitment,HRMS,Compliance",SHRM-CP
+Naveen,Data Analyst,Senior Analyst,8,"Python,SQL,Power BI",Azure DP-900
+Tarun,QA Engineer,QA Lead,6,"Selenium,API Testing",ISTQB
+Swati,UI Designer,UX Lead,6,"Figma,UX,Wireframing",Google UX
+Suresh,QA Engineer,QA Lead,7,"Selenium,API Testing",ISTQB
+Swati,ML Engineer,Senior ML Engineer,9,"Python,ML,AI",AWS ML
+Rahul,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Priya,Data Scientist,Senior Data Scientist,3,"Python,ML,Statistics",IBM Data Science
+Nisha,UI Designer,UX Lead,8,"Figma,UX,Wireframing",Google UX
+Naveen,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Pooja,Software Engineer,Senior Software Engineer,2,"Java,Spring,SQL",Oracle Java
+Priya,QA Engineer,QA Lead,7,"Selenium,API Testing",ISTQB
+Swati,ML Engineer,Senior ML Engineer,11,"Python,ML,AI",AWS ML
+Naveen,ML Engineer,Senior ML Engineer,1,"Python,ML,AI",AWS ML
+Karan,DevOps Engineer,Senior DevOps Engineer,4,"AWS,Docker,Kubernetes",AWS DevOps
+Sneha,Business Analyst,Lead Analyst,11,"Excel,SQL,Stakeholder Mgmt",CBAP
+Suresh,DevOps Engineer,Senior DevOps Engineer,12,"AWS,Docker,Kubernetes",AWS DevOps
+Alka,UI Designer,UX Lead,5,"Figma,UX,Wireframing",Google UX
+Sahil,Data Scientist,Senior Data Scientist,7,"Python,ML,Statistics",IBM Data Science
+Nisha,Data Scientist,Senior Data Scientist,3,"Python,ML,Statistics",IBM Data Science
+Meera,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Sahil,Data Scientist,Senior Data Scientist,3,"Python,ML,Statistics",IBM Data Science
+Mohit,Product Manager,Senior Product Manager,2,"Roadmap,Agile,OKRs",CSPO
+Varun,Data Scientist,Senior Data Scientist,3,"Python,ML,Statistics",IBM Data Science
+Sneha,UI Designer,UX Lead,12,"Figma,UX,Wireframing",Google UX
+Naveen,Business Analyst,Lead Analyst,9,"Excel,SQL,Stakeholder Mgmt",CBAP
+Ritika,DevOps Engineer,Senior DevOps Engineer,8,"AWS,Docker,Kubernetes",AWS DevOps
+Vikas,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Nisha,Data Scientist,Senior Data Scientist,6,"Python,ML,Statistics",IBM Data Science
+Mohit,Software Engineer,Senior Software Engineer,1,"Java,Spring,SQL",Oracle Java
+Isha,Product Manager,Senior Product Manager,11,"Roadmap,Agile,OKRs",CSPO
+Rahul,Data Analyst,Senior Analyst,5,"Python,SQL,Power BI",Azure DP-900
+Ravi,Data Analyst,Senior Analyst,10,"Python,SQL,Power BI",Azure DP-900
+Sneha,Product Manager,Senior Product Manager,6,"Roadmap,Agile,OKRs",CSPO
+Kavya,ML Engineer,Senior ML Engineer,10,"Python,ML,AI",AWS ML
+Priya,Software Engineer,Senior Software Engineer,12,"Java,Spring,SQL",Oracle Java
+Neha,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Isha,QA Engineer,QA Lead,2,"Selenium,API Testing",ISTQB
+Deepak,UI Designer,UX Lead,11,"Figma,UX,Wireframing",Google UX
+Amit,ML Engineer,Senior ML Engineer,6,"Python,ML,AI",AWS ML
+Tarun,Product Manager,Senior Product Manager,4,"Roadmap,Agile,OKRs",CSPO
+Nisha,QA Engineer,QA Lead,6,"Selenium,API Testing",ISTQB
+Anjali,HR Executive,HR Manager,8,"Recruitment,HRMS,Compliance",SHRM-CP
+Tarun,Business Analyst,Lead Analyst,8,"Excel,SQL,Stakeholder Mgmt",CBAP
+Rahul,QA Engineer,QA Lead,2,"Selenium,API Testing",ISTQB
+Rahul,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Swati,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Amit,Software Engineer,Senior Software Engineer,8,"Java,Spring,SQL",Oracle Java
+Neha,Data Analyst,Senior Analyst,10,"Python,SQL,Power BI",Azure DP-900
+Divya,QA Engineer,QA Lead,7,"Selenium,API Testing",ISTQB
+Tarun,Data Scientist,Senior Data Scientist,7,"Python,ML,Statistics",IBM Data Science
+Isha,DevOps Engineer,Senior DevOps Engineer,11,"AWS,Docker,Kubernetes",AWS DevOps
+Vikas,Business Analyst,Lead Analyst,5,"Excel,SQL,Stakeholder Mgmt",CBAP
+Ritika,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Neha,Product Manager,Senior Product Manager,11,"Roadmap,Agile,OKRs",CSPO
+Sneha,DevOps Engineer,Senior DevOps Engineer,11,"AWS,Docker,Kubernetes",AWS DevOps
+Varun,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Arjun,DevOps Engineer,Senior DevOps Engineer,7,"AWS,Docker,Kubernetes",AWS DevOps
+Mohit,ML Engineer,Senior ML Engineer,3,"Python,ML,AI",AWS ML
+Meera,Software Engineer,Senior Software Engineer,3,"Java,Spring,SQL",Oracle Java
+Isha,Data Analyst,Senior Analyst,2,"Python,SQL,Power BI",Azure DP-900
+Manish,HR Executive,HR Manager,4,"Recruitment,HRMS,Compliance",SHRM-CP
+Suresh,Business Analyst,Lead Analyst,12,"Excel,SQL,Stakeholder Mgmt",CBAP
+Akash,Data Scientist,Senior Data Scientist,2,"Python,ML,Statistics",IBM Data Science
+Meera,QA Engineer,QA Lead,6,"Selenium,API Testing",ISTQB
+Sahil,DevOps Engineer,Senior DevOps Engineer,2,"AWS,Docker,Kubernetes",AWS DevOps
+Simran,Data Scientist,Senior Data Scientist,8,"Python,ML,Statistics",IBM Data Science
+Meera,Product Manager,Senior Product Manager,11,"Roadmap,Agile,OKRs",CSPO
+Vikas,QA Engineer,QA Lead,12,"Selenium,API Testing",ISTQB
+Simran,ML Engineer,Senior ML Engineer,4,"Python,ML,AI",AWS ML
+Amit,Data Scientist,Senior Data Scientist,11,"Python,ML,Statistics",IBM Data Science
+Ritika,Software Engineer,Senior Software Engineer,9,"Java,Spring,SQL",Oracle Java
+Deepak,Data Analyst,Senior Analyst,5,"Python,SQL,Power BI",Azure DP-900
+Amit,Data Analyst,Senior Analyst,8,"Python,SQL,Power BI",Azure DP-900
+Amit,DevOps Engineer,Senior DevOps Engineer,1,"AWS,Docker,Kubernetes",AWS DevOps
+Vikas,DevOps Engineer,Senior DevOps Engineer,5,"AWS,Docker,Kubernetes",AWS DevOps
+Meera,ML Engineer,Senior ML Engineer,4,"Python,ML,AI",AWS ML
+Swati,Data Analyst,Senior Analyst,12,"Python,SQL,Power BI",Azure DP-900
+Swati,DevOps Engineer,Senior DevOps Engineer,5,"AWS,Docker,Kubernetes",AWS DevOps
+Sahil,Business Analyst,Lead Analyst,9,"Excel,SQL,Stakeholder Mgmt",CBAP
+Neha,Data Analyst,Senior Analyst,6,"Python,SQL,Power BI",Azure DP-900
+Isha,QA Engineer,QA Lead,10,"Selenium,API Testing",ISTQB
+Divya,ML Engineer,Senior ML Engineer,2,"Python,ML,AI",AWS ML
+Meera,Data Scientist,Senior Data Scientist,4,"Python,ML,Statistics",IBM Data Science
+Kavya,UI Designer,UX Lead,11,"Figma,UX,Wireframing",Google UX
+Kavya,Data Scientist,Senior Data Scientist,3,"Python,ML,Statistics",IBM Data Science
+Sahil,UI Designer,UX Lead,3,"Figma,UX,Wireframing",Google UX
+Karan,Product Manager,Senior Product Manager,10,"Roadmap,Agile,OKRs",CSPO
+Nisha,Product Manager,Senior Product Manager,3,"Roadmap,Agile,OKRs",CSPO
+Rahul,Product Manager,Senior Product Manager,6,"Roadmap,Agile,OKRs",CSPO
+Rohit,HR Executive,HR Manager,9,"Recruitment,HRMS,Compliance",SHRM-CP
+Sneha,UI Designer,UX Lead,2,"Figma,UX,Wireframing",Google UX
+Arjun,Data Analyst,Senior Analyst,12,"Python,SQL,Power BI",Azure DP-900
+Manish,QA Engineer,QA Lead,12,"Selenium,API Testing",ISTQB
+Priya,ML Engineer,Senior ML Engineer,2,"Python,ML,AI",AWS ML
+Divya,HR Executive,HR Manager,1,"Recruitment,HRMS,Compliance",SHRM-CP
+Rahul,Product Manager,Senior Product Manager,11,"Roadmap,Agile,OKRs",CSPO
+Tarun,Data Analyst,Senior Analyst,10,"Python,SQL,Power BI",Azure DP-900
+Divya,HR Executive,HR Manager,9,"Recruitment,HRMS,Compliance",SHRM-CP
+Swati,HR Executive,HR Manager,3,"Recruitment,HRMS,Compliance",SHRM-CP
+Suresh,Software Engineer,Senior Software Engineer,2,"Java,Spring,SQL",Oracle Java
+Varun,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Rahul,Business Analyst,Lead Analyst,9,"Excel,SQL,Stakeholder Mgmt",CBAP
+Vikas,Data Analyst,Senior Analyst,6,"Python,SQL,Power BI",Azure DP-900
+Suresh,DevOps Engineer,Senior DevOps Engineer,4,"AWS,Docker,Kubernetes",AWS DevOps
+Divya,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Nisha,Data Analyst,Senior Analyst,9,"Python,SQL,Power BI",Azure DP-900
+Arjun,Data Analyst,Senior Analyst,2,"Python,SQL,Power BI",Azure DP-900
+Vikas,HR Executive,HR Manager,7,"Recruitment,HRMS,Compliance",SHRM-CP
+Vikas,Business Analyst,Lead Analyst,11,"Excel,SQL,Stakeholder Mgmt",CBAP
+Sneha,UI Designer,UX Lead,4,"Figma,UX,Wireframing",Google UX
+Meera,ML Engineer,Senior ML Engineer,10,"Python,ML,AI",AWS ML
+Mohit,HR Executive,HR Manager,10,"Recruitment,HRMS,Compliance",SHRM-CP
+Alka,Data Scientist,Senior Data Scientist,10,"Python,ML,Statistics",IBM Data Science
+Divya,UI Designer,UX Lead,9,"Figma,UX,Wireframing",Google UX
+Mohit,Business Analyst,Lead Analyst,9,"Excel,SQL,Stakeholder Mgmt",CBAP
+Suresh,HR Executive,HR Manager,4,"Recruitment,HRMS,Compliance",SHRM-CP
+Vikas,Software Engineer,Senior Software Engineer,8,"Java,Spring,SQL",Oracle Java
+Mohit,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Amit,HR Executive,HR Manager,8,"Recruitment,HRMS,Compliance",SHRM-CP
+Deepak,Data Analyst,Senior Analyst,11,"Python,SQL,Power BI",Azure DP-900
+Isha,UI Designer,UX Lead,5,"Figma,UX,Wireframing",Google UX
+Pooja,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Tarun,Data Scientist,Senior Data Scientist,12,"Python,ML,Statistics",IBM Data Science
+Meera,Business Analyst,Lead Analyst,1,"Excel,SQL,Stakeholder Mgmt",CBAP
+Rohit,Data Analyst,Senior Analyst,11,"Python,SQL,Power BI",Azure DP-900
+Swati,HR Executive,HR Manager,8,"Recruitment,HRMS,Compliance",SHRM-CP
+Varun,DevOps Engineer,Senior DevOps Engineer,2,"AWS,Docker,Kubernetes",AWS DevOps
+Simran,HR Executive,HR Manager,7,"Recruitment,HRMS,Compliance",SHRM-CP
+Neha,QA Engineer,QA Lead,10,"Selenium,API Testing",ISTQB
+Amit,ML Engineer,Senior ML Engineer,3,"Python,ML,AI",AWS ML
+Naveen,ML Engineer,Senior ML Engineer,1,"Python,ML,AI",AWS ML
+Sneha,HR Executive,HR Manager,5,"Recruitment,HRMS,Compliance",SHRM-CP
+Anjali,ML Engineer,Senior ML Engineer,3,"Python,ML,AI",AWS ML
+Kavya,QA Engineer,QA Lead,11,"Selenium,API Testing",ISTQB
+Akash,Data Scientist,Senior Data Scientist,7,"Python,ML,Statistics",IBM Data Science
+Rahul,HR Executive,HR Manager,10,"Recruitment,HRMS,Compliance",SHRM-CP
+Manish,UI Designer,UX Lead,3,"Figma,UX,Wireframing",Google UX
+Tarun,UI Designer,UX Lead,5,"Figma,UX,Wireframing",Google UX
+Manish,Data Analyst,Senior Analyst,7,"Python,SQL,Power BI",Azure DP-900
+Varun,UI Designer,UX Lead,9,"Figma,UX,Wireframing",Google UX
+Arjun,HR Executive,HR Manager,10,"Recruitment,HRMS,Compliance",SHRM-CP
+Mohit,Business Analyst,Lead Analyst,3,"Excel,SQL,Stakeholder Mgmt",CBAP
+Varun,HR Executive,HR Manager,4,"Recruitment,HRMS,Compliance",SHRM-CP
+Anjali,UI Designer,UX Lead,1,"Figma,UX,Wireframing",Google UX
+Kavya,Data Scientist,Senior Data Scientist,9,"Python,ML,Statistics",IBM Data Science
+Tarun,ML Engineer,Senior ML Engineer,11,"Python,ML,AI",AWS ML
+Rohit,Product Manager,Senior Product Manager,3,"Roadmap,Agile,OKRs",CSPO
+Deepak,DevOps Engineer,Senior DevOps Engineer,11,"AWS,Docker,Kubernetes",AWS DevOps
+Naveen,Software Engineer,Senior Software Engineer,9,"Java,Spring,SQL",Oracle Java
+Tarun,ML Engineer,Senior ML Engineer,1,"Python,ML,AI",AWS ML
+Suresh,Product Manager,Senior Product Manager,11,"Roadmap,Agile,OKRs",CSPO
+Neha,QA Engineer,QA Lead,7,"Selenium,API Testing",ISTQB
+Rahul,Data Analyst,Senior Analyst,8,"Python,SQL,Power BI",Azure DP-900
+Mohit,Data Analyst,Senior Analyst,8,"Python,SQL,Power BI",Azure DP-900
+Isha,ML Engineer,Senior ML Engineer,9,"Python,ML,AI",AWS ML
+Tarun,Data Analyst,Senior Analyst,7,"Python,SQL,Power BI",Azure DP-900
+Karan,UI Designer,UX Lead,4,"Figma,UX,Wireframing",Google UX
+Rahul,Product Manager,Senior Product Manager,11,"Roadmap,Agile,OKRs",CSPO
+Simran,Data Scientist,Senior Data Scientist,2,"Python,ML,Statistics",IBM Data Science
+Nisha,UI Designer,UX Lead,4,"Figma,UX,Wireframing",Google UX
+Akash,Software Engineer,Senior Software Engineer,2,"Java,Spring,SQL",Oracle Java
+Varun,UI Designer,UX Lead,10,"Figma,UX,Wireframing",Google UX
+Varun,Business Analyst,Lead Analyst,3,"Excel,SQL,Stakeholder Mgmt",CBAP
+Alka,UI Designer,UX Lead,11,"Figma,UX,Wireframing",Google UX
+Vikas,QA Engineer,QA Lead,6,"Selenium,API Testing",ISTQB
+Mohit,Business Analyst,Lead Analyst,6,"Excel,SQL,Stakeholder Mgmt",CBAP
+Naveen,QA Engineer,QA Lead,9,"Selenium,API Testing",ISTQB
+Naveen,Business Analyst,Lead Analyst,8,"Excel,SQL,Stakeholder Mgmt",CBAP
+Deepak,Business Analyst,Lead Analyst,9,"Excel,SQL,Stakeholder Mgmt",CBAP
+Sneha,ML Engineer,Senior ML Engineer,1,"Python,ML,AI",AWS ML
+Ravi,Product Manager,Senior Product Manager,12,"Roadmap,Agile,OKRs",CSPO
+Suresh,ML Engineer,Senior ML Engineer,4,"Python,ML,AI",AWS ML
+Ritika,Product Manager,Senior Product Manager,6,"Roadmap,Agile,OKRs",CSPO
+Neha,HR Executive,HR Manager,5,"Recruitment,HRMS,Compliance",SHRM-CP
+Suresh,ML Engineer,Senior ML Engineer,5,"Python,ML,AI",AWS ML
+Vikas,HR Executive,HR Manager,8,"Recruitment,HRMS,Compliance",SHRM-CP
+Tarun,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Isha,QA Engineer,QA Lead,3,"Selenium,API Testing",ISTQB
+Neha,HR Executive,HR Manager,3,"Recruitment,HRMS,Compliance",SHRM-CP
+Arjun,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Ritika,DevOps Engineer,Senior DevOps Engineer,7,"AWS,Docker,Kubernetes",AWS DevOps
+Akash,ML Engineer,Senior ML Engineer,5,"Python,ML,AI",AWS ML
+Tarun,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Mohit,DevOps Engineer,Senior DevOps Engineer,10,"AWS,Docker,Kubernetes",AWS DevOps
+Pooja,ML Engineer,Senior ML Engineer,5,"Python,ML,AI",AWS ML
+Priya,Software Engineer,Senior Software Engineer,1,"Java,Spring,SQL",Oracle Java
+Kavya,Data Analyst,Senior Analyst,7,"Python,SQL,Power BI",Azure DP-900
+Rahul,UI Designer,UX Lead,2,"Figma,UX,Wireframing",Google UX
+Pooja,DevOps Engineer,Senior DevOps Engineer,7,"AWS,Docker,Kubernetes",AWS DevOps
+Varun,Software Engineer,Senior Software Engineer,11,"Java,Spring,SQL",Oracle Java
+Akash,Data Analyst,Senior Analyst,3,"Python,SQL,Power BI",Azure DP-900
+Priya,Software Engineer,Senior Software Engineer,5,"Java,Spring,SQL",Oracle Java
+Pooja,QA Engineer,QA Lead,8,"Selenium,API Testing",ISTQB
+Deepak,DevOps Engineer,Senior DevOps Engineer,3,"AWS,Docker,Kubernetes",AWS DevOps
+Manish,Data Analyst,Senior Analyst,10,"Python,SQL,Power BI",Azure DP-900
+Vikas,Software Engineer,Senior Software Engineer,5,"Java,Spring,SQL",Oracle Java
+Anjali,ML Engineer,Senior ML Engineer,11,"Python,ML,AI",AWS ML
+Nisha,DevOps Engineer,Senior DevOps Engineer,4,"AWS,Docker,Kubernetes",AWS DevOps
+Vikas,Data Scientist,Senior Data Scientist,7,"Python,ML,Statistics",IBM Data Science
+Mohit,UI Designer,UX Lead,3,"Figma,UX,Wireframing",Google UX
+Deepak,QA Engineer,QA Lead,3,"Selenium,API Testing",ISTQB
+Meera,QA Engineer,QA Lead,8,"Selenium,API Testing",ISTQB
+Vikas,UI Designer,UX Lead,8,"Figma,UX,Wireframing",Google UX
+Rohit,Product Manager,Senior Product Manager,1,"Roadmap,Agile,OKRs",CSPO
+Tarun,ML Engineer,Senior ML Engineer,7,"Python,ML,AI",AWS ML
+Pooja,Software Engineer,Senior Software Engineer,2,"Java,Spring,SQL",Oracle Java
+Nisha,UI Designer,UX Lead,12,"Figma,UX,Wireframing",Google UX
+Anjali,QA Engineer,QA Lead,2,"Selenium,API Testing",ISTQB
+Simran,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Mohit,UI Designer,UX Lead,5,"Figma,UX,Wireframing",Google UX
+Pooja,Software Engineer,Senior Software Engineer,11,"Java,Spring,SQL",Oracle Java
+Meera,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Naveen,Business Analyst,Lead Analyst,5,"Excel,SQL,Stakeholder Mgmt",CBAP
+Nisha,DevOps Engineer,Senior DevOps Engineer,11,"AWS,Docker,Kubernetes",AWS DevOps
+Swati,QA Engineer,QA Lead,11,"Selenium,API Testing",ISTQB
+Akash,QA Engineer,QA Lead,6,"Selenium,API Testing",ISTQB
+Meera,Product Manager,Senior Product Manager,5,"Roadmap,Agile,OKRs",CSPO
+Deepak,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Swati,Software Engineer,Senior Software Engineer,4,"Java,Spring,SQL",Oracle Java
+Deepak,DevOps Engineer,Senior DevOps Engineer,6,"AWS,Docker,Kubernetes",AWS DevOps
+Mohit,DevOps Engineer,Senior DevOps Engineer,8,"AWS,Docker,Kubernetes",AWS DevOps
+Karan,HR Executive,HR Manager,10,"Recruitment,HRMS,Compliance",SHRM-CP
+Tarun,Product Manager,Senior Product Manager,5,"Roadmap,Agile,OKRs",CSPO
+Deepak,Software Engineer,Senior Software Engineer,4,"Java,Spring,SQL",Oracle Java
+Isha,Software Engineer,Senior Software Engineer,5,"Java,Spring,SQL",Oracle Java
+Amit,Software Engineer,Senior Software Engineer,4,"Java,Spring,SQL",Oracle Java
+Kavya,QA Engineer,QA Lead,3,"Selenium,API Testing",ISTQB
+Priya,Data Analyst,Senior Analyst,9,"Python,SQL,Power BI",Azure DP-900
+Suresh,DevOps Engineer,Senior DevOps Engineer,4,"AWS,Docker,Kubernetes",AWS DevOps
+Simran,Data Scientist,Senior Data Scientist,6,"Python,ML,Statistics",IBM Data Science
+Alka,Data Analyst,Senior Analyst,6,"Python,SQL,Power BI",Azure DP-900
+Alka,Business Analyst,Lead Analyst,11,"Excel,SQL,Stakeholder Mgmt",CBAP
+Suresh,UI Designer,UX Lead,12,"Figma,UX,Wireframing",Google UX
+Arjun,QA Engineer,QA Lead,8,"Selenium,API Testing",ISTQB
+Rahul,Software Engineer,Senior Software Engineer,1,"Java,Spring,SQL",Oracle Java
+Naveen,ML Engineer,Senior ML Engineer,10,"Python,ML,AI",AWS ML
+Karan,UI Designer,UX Lead,9,"Figma,UX,Wireframing",Google UX
+Sneha,ML Engineer,Senior ML Engineer,1,"Python,ML,AI",AWS ML
+Sahil,HR Executive,HR Manager,10,"Recruitment,HRMS,Compliance",SHRM-CP
+Rahul,QA Engineer,QA Lead,12,"Selenium,API Testing",ISTQB
+Alka,UI Designer,UX Lead,2,"Figma,UX,Wireframing",Google UX
+Vikas,Software Engineer,Senior Software Engineer,3,"Java,Spring,SQL",Oracle Java
+Deepak,ML Engineer,Senior ML Engineer,8,"Python,ML,AI",AWS ML
+Vikas,DevOps Engineer,Senior DevOps Engineer,6,"AWS,Docker,Kubernetes",AWS DevOps
+Pooja,Data Analyst,Senior Analyst,12,"Python,SQL,Power BI",Azure DP-900
+Alka,Data Analyst,Senior Analyst,3,"Python,SQL,Power BI",Azure DP-900
+Mohit,Software Engineer,Senior Software Engineer,6,"Java,Spring,SQL",Oracle Java
+Vikas,HR Executive,HR Manager,7,"Recruitment,HRMS,Compliance",SHRM-CP
+Ravi,Software Engineer,Senior Software Engineer,9,"Java,Spring,SQL",Oracle Java
+Tarun,ML Engineer,Senior ML Engineer,4,"Python,ML,AI",AWS ML
+Neha,Data Analyst,Senior Analyst,10,"Python,SQL,Power BI",Azure DP-900
+Manish,ML Engineer,Senior ML Engineer,1,"Python,ML,AI",AWS ML
+Rohit,Data Scientist,Senior Data Scientist,11,"Python,ML,Statistics",IBM Data Science
+Isha,UI Designer,UX Lead,6,"Figma,UX,Wireframing",Google UX
+Amit,Business Analyst,Lead Analyst,6,"Excel,SQL,Stakeholder Mgmt",CBAP
+Karan,HR Executive,HR Manager,6,"Recruitment,HRMS,Compliance",SHRM-CP
+Meera,Business Analyst,Lead Analyst,10,"Excel,SQL,Stakeholder Mgmt",CBAP
+Amit,HR Executive,HR Manager,1,"Recruitment,HRMS,Compliance",SHRM-CP
+Nisha,Product Manager,Senior Product Manager,10,"Roadmap,Agile,OKRs",CSPO
+Deepak,ML Engineer,Senior ML Engineer,2,"Python,ML,AI",AWS ML
+Vikas,UI Designer,UX Lead,12,"Figma,UX,Wireframing",Google UX
+Meera,ML Engineer,Senior ML Engineer,3,"Python,ML,AI",AWS ML
+Priya,UI Designer,UX Lead,6,"Figma,UX,Wireframing",Google UX
+Ravi,HR Executive,HR Manager,10,"Recruitment,HRMS,Compliance",SHRM-CP
+Suresh,ML Engineer,Senior ML Engineer,5,"Python,ML,AI",AWS ML
+Rahul,UI Designer,UX Lead,10,"Figma,UX,Wireframing",Google UX
+Alka,HR Executive,HR Manager,8,"Recruitment,HRMS,Compliance",SHRM-CP
+Sneha,Data Analyst,Senior Analyst,10,"Python,SQL,Power BI",Azure DP-900
+Sahil,HR Executive,HR Manager,4,"Recruitment,HRMS,Compliance",SHRM-CP
+Priya,Business Analyst,Lead Analyst,1,"Excel,SQL,Stakeholder Mgmt",CBAP
+Arjun,Software Engineer,Senior Software Engineer,11,"Java,Spring,SQL",Oracle Java
+Anjali,HR Executive,HR Manager,5,"Recruitment,HRMS,Compliance",SHRM-CP
+Kavya,Business Analyst,Lead Analyst,5,"Excel,SQL,Stakeholder Mgmt",CBAP
+Isha,Software Engineer,Senior Software Engineer,7,"Java,Spring,SQL",Oracle Java
+Alka,Business Analyst,Lead Analyst,6,"Excel,SQL,Stakeholder Mgmt",CBAP
+Naveen,HR Executive,HR Manager,5,"Recruitment,HRMS,Compliance",SHRM-CP
+Sneha,Data Scientist,Senior Data Scientist,2,"Python,ML,Statistics",IBM Data Science
+Simran,QA Engineer,QA Lead,10,"Selenium,API Testing",ISTQB
+Divya,DevOps Engineer,Senior DevOps Engineer,4,"AWS,Docker,Kubernetes",AWS DevOps
+Alka,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Pooja,QA Engineer,QA Lead,7,"Selenium,API Testing",ISTQB
+Arjun,ML Engineer,Senior ML Engineer,10,"Python,ML,AI",AWS ML
+Pooja,Business Analyst,Lead Analyst,11,"Excel,SQL,Stakeholder Mgmt",CBAP
+Amit,UI Designer,UX Lead,2,"Figma,UX,Wireframing",Google UX
+Karan,Business Analyst,Lead Analyst,6,"Excel,SQL,Stakeholder Mgmt",CBAP
+Isha,Business Analyst,Lead Analyst,1,"Excel,SQL,Stakeholder Mgmt",CBAP
+Simran,DevOps Engineer,Senior DevOps Engineer,10,"AWS,Docker,Kubernetes",AWS DevOps
+Karan,DevOps Engineer,Senior DevOps Engineer,8,"AWS,Docker,Kubernetes",AWS DevOps
+Nisha,Product Manager,Senior Product Manager,1,"Roadmap,Agile,OKRs",CSPO
+Alka,DevOps Engineer,Senior DevOps Engineer,9,"AWS,Docker,Kubernetes",AWS DevOps
+Swati,HR Executive,HR Manager,11,"Recruitment,HRMS,Compliance",SHRM-CP
+Rohit,QA Engineer,QA Lead,1,"Selenium,API Testing",ISTQB
+Meera,HR Executive,HR Manager,6,"Recruitment,HRMS,Compliance",SHRM-CP
+Simran,ML Engineer,Senior ML Engineer,2,"Python,ML,AI",AWS ML
+Isha,DevOps Engineer,Senior DevOps Engineer,7,"AWS,Docker,Kubernetes",AWS DevOps
+Neha,Data Analyst,Senior Analyst,1,"Python,SQL,Power BI",Azure DP-900
+Alka,HR Executive,HR Manager,8,"Recruitment,HRMS,Compliance",SHRM-CP
+Meera,DevOps Engineer,Senior DevOps Engineer,10,"AWS,Docker,Kubernetes",AWS DevOps
+Rahul,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Anjali,Product Manager,Senior Product Manager,5,"Roadmap,Agile,OKRs",CSPO
+Sahil,Product Manager,Senior Product Manager,3,"Roadmap,Agile,OKRs",CSPO
+Sahil,Product Manager,Senior Product Manager,2,"Roadmap,Agile,OKRs",CSPO
+Nisha,DevOps Engineer,Senior DevOps Engineer,1,"AWS,Docker,Kubernetes",AWS DevOps
+Manish,HR Executive,HR Manager,4,"Recruitment,HRMS,Compliance",SHRM-CP
+Priya,DevOps Engineer,Senior DevOps Engineer,4,"AWS,Docker,Kubernetes",AWS DevOps
+Alka,Product Manager,Senior Product Manager,5,"Roadmap,Agile,OKRs",CSPO
+Amit,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Ravi,Data Analyst,Senior Analyst,2,"Python,SQL,Power BI",Azure DP-900
+Arjun,Software Engineer,Senior Software Engineer,9,"Java,Spring,SQL",Oracle Java
+Mohit,Data Scientist,Senior Data Scientist,2,"Python,ML,Statistics",IBM Data Science
+Suresh,UI Designer,UX Lead,1,"Figma,UX,Wireframing",Google UX
+Deepak,Product Manager,Senior Product Manager,10,"Roadmap,Agile,OKRs",CSPO
+Karan,Data Scientist,Senior Data Scientist,9,"Python,ML,Statistics",IBM Data Science
+Nisha,UI Designer,UX Lead,9,"Figma,UX,Wireframing",Google UX
+Tarun,DevOps Engineer,Senior DevOps Engineer,12,"AWS,Docker,Kubernetes",AWS DevOps
+Varun,DevOps Engineer,Senior DevOps Engineer,11,"AWS,Docker,Kubernetes",AWS DevOps
+Ravi,Data Analyst,Senior Analyst,5,"Python,SQL,Power BI",Azure DP-900
+Simran,Software Engineer,Senior Software Engineer,3,"Java,Spring,SQL",Oracle Java
+Akash,ML Engineer,Senior ML Engineer,10,"Python,ML,AI",AWS ML
+Simran,DevOps Engineer,Senior DevOps Engineer,9,"AWS,Docker,Kubernetes",AWS DevOps
+Akash,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Meera,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Kavya,Software Engineer,Senior Software Engineer,10,"Java,Spring,SQL",Oracle Java
+Nisha,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Karan,DevOps Engineer,Senior DevOps Engineer,5,"AWS,Docker,Kubernetes",AWS DevOps
+Suresh,UI Designer,UX Lead,5,"Figma,UX,Wireframing",Google UX
+Mohit,DevOps Engineer,Senior DevOps Engineer,2,"AWS,Docker,Kubernetes",AWS DevOps
+Ravi,Business Analyst,Lead Analyst,1,"Excel,SQL,Stakeholder Mgmt",CBAP
+Rohit,UI Designer,UX Lead,1,"Figma,UX,Wireframing",Google UX
+Akash,Business Analyst,Lead Analyst,1,"Excel,SQL,Stakeholder Mgmt",CBAP
+Kavya,Data Analyst,Senior Analyst,10,"Python,SQL,Power BI",Azure DP-900
+Ravi,UI Designer,UX Lead,1,"Figma,UX,Wireframing",Google UX
+Mohit,HR Executive,HR Manager,8,"Recruitment,HRMS,Compliance",SHRM-CP
+Amit,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Swati,Business Analyst,Lead Analyst,8,"Excel,SQL,Stakeholder Mgmt",CBAP
+Nisha,Data Analyst,Senior Analyst,5,"Python,SQL,Power BI",Azure DP-900
+Ravi,Software Engineer,Senior Software Engineer,6,"Java,Spring,SQL",Oracle Java
+Deepak,DevOps Engineer,Senior DevOps Engineer,2,"AWS,Docker,Kubernetes",AWS DevOps
+Akash,Software Engineer,Senior Software Engineer,11,"Java,Spring,SQL",Oracle Java
+Vikas,DevOps Engineer,Senior DevOps Engineer,1,"AWS,Docker,Kubernetes",AWS DevOps
+Priya,QA Engineer,QA Lead,7,"Selenium,API Testing",ISTQB
+Rohit,Data Scientist,Senior Data Scientist,4,"Python,ML,Statistics",IBM Data Science
+Meera,Product Manager,Senior Product Manager,5,"Roadmap,Agile,OKRs",CSPO
+Naveen,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Ravi,Business Analyst,Lead Analyst,5,"Excel,SQL,Stakeholder Mgmt",CBAP
+Alka,Data Scientist,Senior Data Scientist,9,"Python,ML,Statistics",IBM Data Science
+Swati,DevOps Engineer,Senior DevOps Engineer,7,"AWS,Docker,Kubernetes",AWS DevOps
+Simran,ML Engineer,Senior ML Engineer,10,"Python,ML,AI",AWS ML
+Rahul,Product Manager,Senior Product Manager,3,"Roadmap,Agile,OKRs",CSPO
+Naveen,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Varun,ML Engineer,Senior ML Engineer,3,"Python,ML,AI",AWS ML
+Arjun,Business Analyst,Lead Analyst,1,"Excel,SQL,Stakeholder Mgmt",CBAP
+Varun,DevOps Engineer,Senior DevOps Engineer,8,"AWS,Docker,Kubernetes",AWS DevOps
+Amit,HR Executive,HR Manager,6,"Recruitment,HRMS,Compliance",SHRM-CP
+Anjali,Business Analyst,Lead Analyst,1,"Excel,SQL,Stakeholder Mgmt",CBAP
+Kavya,Business Analyst,Lead Analyst,6,"Excel,SQL,Stakeholder Mgmt",CBAP
+Manish,Product Manager,Senior Product Manager,2,"Roadmap,Agile,OKRs",CSPO
+Divya,Software Engineer,Senior Software Engineer,9,"Java,Spring,SQL",Oracle Java
+Karan,HR Executive,HR Manager,7,"Recruitment,HRMS,Compliance",SHRM-CP
+Deepak,UI Designer,UX Lead,6,"Figma,UX,Wireframing",Google UX
+Alka,Data Scientist,Senior Data Scientist,10,"Python,ML,Statistics",IBM Data Science
+Nisha,ML Engineer,Senior ML Engineer,2,"Python,ML,AI",AWS ML
+Pooja,ML Engineer,Senior ML Engineer,11,"Python,ML,AI",AWS ML
+Deepak,QA Engineer,QA Lead,12,"Selenium,API Testing",ISTQB
+Deepak,Software Engineer,Senior Software Engineer,8,"Java,Spring,SQL",Oracle Java
+Rohit,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Amit,Software Engineer,Senior Software Engineer,4,"Java,Spring,SQL",Oracle Java
+Akash,HR Executive,HR Manager,6,"Recruitment,HRMS,Compliance",SHRM-CP
+Karan,DevOps Engineer,Senior DevOps Engineer,1,"AWS,Docker,Kubernetes",AWS DevOps
+Manish,Business Analyst,Lead Analyst,3,"Excel,SQL,Stakeholder Mgmt",CBAP
+Priya,Data Analyst,Senior Analyst,12,"Python,SQL,Power BI",Azure DP-900
+Priya,UI Designer,UX Lead,2,"Figma,UX,Wireframing",Google UX
+Varun,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Naveen,Product Manager,Senior Product Manager,2,"Roadmap,Agile,OKRs",CSPO
+Suresh,DevOps Engineer,Senior DevOps Engineer,9,"AWS,Docker,Kubernetes",AWS DevOps
+Alka,DevOps Engineer,Senior DevOps Engineer,10,"AWS,Docker,Kubernetes",AWS DevOps
+Vikas,Business Analyst,Lead Analyst,12,"Excel,SQL,Stakeholder Mgmt",CBAP
+Vikas,Product Manager,Senior Product Manager,7,"Roadmap,Agile,OKRs",CSPO
+Swati,DevOps Engineer,Senior DevOps Engineer,12,"AWS,Docker,Kubernetes",AWS DevOps
+Swati,Business Analyst,Lead Analyst,9,"Excel,SQL,Stakeholder Mgmt",CBAP
+Neha,Business Analyst,Lead Analyst,6,"Excel,SQL,Stakeholder Mgmt",CBAP
+Priya,Business Analyst,Lead Analyst,10,"Excel,SQL,Stakeholder Mgmt",CBAP
+Naveen,Software Engineer,Senior Software Engineer,8,"Java,Spring,SQL",Oracle Java
+Manish,Software Engineer,Senior Software Engineer,7,"Java,Spring,SQL",Oracle Java
+Anjali,QA Engineer,QA Lead,10,"Selenium,API Testing",ISTQB
+Sahil,HR Executive,HR Manager,4,"Recruitment,HRMS,Compliance",SHRM-CP
+Sahil,Data Scientist,Senior Data Scientist,8,"Python,ML,Statistics",IBM Data Science
+Kavya,Data Analyst,Senior Analyst,9,"Python,SQL,Power BI",Azure DP-900
+Amit,ML Engineer,Senior ML Engineer,3,"Python,ML,AI",AWS ML
+Kavya,Data Scientist,Senior Data Scientist,4,"Python,ML,Statistics",IBM Data Science
+Vikas,HR Executive,HR Manager,12,"Recruitment,HRMS,Compliance",SHRM-CP
+Akash,Data Scientist,Senior Data Scientist,2,"Python,ML,Statistics",IBM Data Science
+Karan,Data Analyst,Senior Analyst,3,"Python,SQL,Power BI",Azure DP-900
+Sneha,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Divya,QA Engineer,QA Lead,12,"Selenium,API Testing",ISTQB
+Ravi,Software Engineer,Senior Software Engineer,12,"Java,Spring,SQL",Oracle Java
+Rohit,Data Scientist,Senior Data Scientist,1,"Python,ML,Statistics",IBM Data Science
+Priya,Data Scientist,Senior Data Scientist,8,"Python,ML,Statistics",IBM Data Science
+Vikas,Product Manager,Senior Product Manager,11,"Roadmap,Agile,OKRs",CSPO
+Pooja,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Arjun,ML Engineer,Senior ML Engineer,8,"Python,ML,AI",AWS ML
+Karan,ML Engineer,Senior ML Engineer,1,"Python,ML,AI",AWS ML
+Ritika,Data Scientist,Senior Data Scientist,5,"Python,ML,Statistics",IBM Data Science
+Varun,Product Manager,Senior Product Manager,4,"Roadmap,Agile,OKRs",CSPO
+Priya,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Swati,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Nisha,Software Engineer,Senior Software Engineer,8,"Java,Spring,SQL",Oracle Java
+Swati,Business Analyst,Lead Analyst,1,"Excel,SQL,Stakeholder Mgmt",CBAP
+Manish,Software Engineer,Senior Software Engineer,10,"Java,Spring,SQL",Oracle Java
+Alka,Product Manager,Senior Product Manager,10,"Roadmap,Agile,OKRs",CSPO
+Divya,ML Engineer,Senior ML Engineer,4,"Python,ML,AI",AWS ML
+Ritika,Data Analyst,Senior Analyst,10,"Python,SQL,Power BI",Azure DP-900
+Nisha,UI Designer,UX Lead,1,"Figma,UX,Wireframing",Google UX
+Anjali,QA Engineer,QA Lead,7,"Selenium,API Testing",ISTQB
+Ravi,Software Engineer,Senior Software Engineer,8,"Java,Spring,SQL",Oracle Java
+Tarun,HR Executive,HR Manager,10,"Recruitment,HRMS,Compliance",SHRM-CP
+Anjali,Data Scientist,Senior Data Scientist,11,"Python,ML,Statistics",IBM Data Science
+Manish,ML Engineer,Senior ML Engineer,7,"Python,ML,AI",AWS ML
+Meera,ML Engineer,Senior ML Engineer,11,"Python,ML,AI",AWS ML
+Sahil,UI Designer,UX Lead,6,"Figma,UX,Wireframing",Google UX
+Kavya,QA Engineer,QA Lead,3,"Selenium,API Testing",ISTQB
+Kavya,UI Designer,UX Lead,10,"Figma,UX,Wireframing",Google UX
+Tarun,Product Manager,Senior Product Manager,1,"Roadmap,Agile,OKRs",CSPO
+Deepak,DevOps Engineer,Senior DevOps Engineer,9,"AWS,Docker,Kubernetes",AWS DevOps
+Simran,HR Executive,HR Manager,11,"Recruitment,HRMS,Compliance",SHRM-CP
+Rohit,Business Analyst,Lead Analyst,2,"Excel,SQL,Stakeholder Mgmt",CBAP
+Alka,QA Engineer,QA Lead,11,"Selenium,API Testing",ISTQB
+Neha,DevOps Engineer,Senior DevOps Engineer,11,"AWS,Docker,Kubernetes",AWS DevOps
+Arjun,Data Scientist,Senior Data Scientist,4,"Python,ML,Statistics",IBM Data Science
+Karan,ML Engineer,Senior ML Engineer,1,"Python,ML,AI",AWS ML
+Manish,ML Engineer,Senior ML Engineer,9,"Python,ML,AI",AWS ML
+Mohit,HR Executive,HR Manager,6,"Recruitment,HRMS,Compliance",SHRM-CP
+Swati,Business Analyst,Lead Analyst,10,"Excel,SQL,Stakeholder Mgmt",CBAP
+Deepak,HR Executive,HR Manager,3,"Recruitment,HRMS,Compliance",SHRM-CP
+Arjun,QA Engineer,QA Lead,3,"Selenium,API Testing",ISTQB
+Arjun,Business Analyst,Lead Analyst,9,"Excel,SQL,Stakeholder Mgmt",CBAP
+Divya,Business Analyst,Lead Analyst,10,"Excel,SQL,Stakeholder Mgmt",CBAP
+Varun,Data Analyst,Senior Analyst,5,"Python,SQL,Power BI",Azure DP-900
+Priya,Software Engineer,Senior Software Engineer,4,"Java,Spring,SQL",Oracle Java
+Ritika,Product Manager,Senior Product Manager,2,"Roadmap,Agile,OKRs",CSPO
+Ritika,Product Manager,Senior Product Manager,7,"Roadmap,Agile,OKRs",CSPO
+Meera,UI Designer,UX Lead,3,"Figma,UX,Wireframing",Google UX
+Pooja,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Anjali,Software Engineer,Senior Software Engineer,2,"Java,Spring,SQL",Oracle Java
+Sahil,Data Scientist,Senior Data Scientist,10,"Python,ML,Statistics",IBM Data Science
+Sahil,Data Scientist,Senior Data Scientist,10,"Python,ML,Statistics",IBM Data Science
+Isha,Software Engineer,Senior Software Engineer,5,"Java,Spring,SQL",Oracle Java
+Priya,ML Engineer,Senior ML Engineer,2,"Python,ML,AI",AWS ML
+Divya,Data Scientist,Senior Data Scientist,2,"Python,ML,Statistics",IBM Data Science
+Karan,Data Scientist,Senior Data Scientist,9,"Python,ML,Statistics",IBM Data Science
+Anjali,Business Analyst,Lead Analyst,6,"Excel,SQL,Stakeholder Mgmt",CBAP
+Simran,ML Engineer,Senior ML Engineer,6,"Python,ML,AI",AWS ML
+Tarun,Software Engineer,Senior Software Engineer,12,"Java,Spring,SQL",Oracle Java
+Simran,Product Manager,Senior Product Manager,12,"Roadmap,Agile,OKRs",CSPO
+Varun,ML Engineer,Senior ML Engineer,5,"Python,ML,AI",AWS ML
+Akash,Product Manager,Senior Product Manager,10,"Roadmap,Agile,OKRs",CSPO
+Sahil,Software Engineer,Senior Software Engineer,7,"Java,Spring,SQL",Oracle Java
+Vikas,Software Engineer,Senior Software Engineer,6,"Java,Spring,SQL",Oracle Java
+Manish,ML Engineer,Senior ML Engineer,11,"Python,ML,AI",AWS ML
+Rahul,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Kavya,HR Executive,HR Manager,8,"Recruitment,HRMS,Compliance",SHRM-CP
+Anjali,HR Executive,HR Manager,8,"Recruitment,HRMS,Compliance",SHRM-CP
+Suresh,ML Engineer,Senior ML Engineer,6,"Python,ML,AI",AWS ML
+Karan,Business Analyst,Lead Analyst,11,"Excel,SQL,Stakeholder Mgmt",CBAP
+Deepak,Data Analyst,Senior Analyst,6,"Python,SQL,Power BI",Azure DP-900
+Pooja,Data Analyst,Senior Analyst,4,"Python,SQL,Power BI",Azure DP-900
+Sahil,Software Engineer,Senior Software Engineer,1,"Java,Spring,SQL",Oracle Java
+Rahul,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Pooja,DevOps Engineer,Senior DevOps Engineer,6,"AWS,Docker,Kubernetes",AWS DevOps
+Priya,Software Engineer,Senior Software Engineer,12,"Java,Spring,SQL",Oracle Java
+Rohit,Software Engineer,Senior Software Engineer,11,"Java,Spring,SQL",Oracle Java
+Sahil,Product Manager,Senior Product Manager,9,"Roadmap,Agile,OKRs",CSPO
+Manish,Data Scientist,Senior Data Scientist,3,"Python,ML,Statistics",IBM Data Science
+Sneha,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Kavya,Business Analyst,Lead Analyst,1,"Excel,SQL,Stakeholder Mgmt",CBAP
+Ravi,Product Manager,Senior Product Manager,4,"Roadmap,Agile,OKRs",CSPO
+Priya,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Mohit,HR Executive,HR Manager,5,"Recruitment,HRMS,Compliance",SHRM-CP
+Alka,Product Manager,Senior Product Manager,6,"Roadmap,Agile,OKRs",CSPO
+Simran,Product Manager,Senior Product Manager,11,"Roadmap,Agile,OKRs",CSPO
+Meera,Data Analyst,Senior Analyst,7,"Python,SQL,Power BI",Azure DP-900
+Simran,Data Analyst,Senior Analyst,1,"Python,SQL,Power BI",Azure DP-900
+Rohit,Data Scientist,Senior Data Scientist,2,"Python,ML,Statistics",IBM Data Science
+Deepak,ML Engineer,Senior ML Engineer,3,"Python,ML,AI",AWS ML
+Karan,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Isha,Software Engineer,Senior Software Engineer,9,"Java,Spring,SQL",Oracle Java
+Ritika,Product Manager,Senior Product Manager,1,"Roadmap,Agile,OKRs",CSPO
+Ravi,Data Scientist,Senior Data Scientist,7,"Python,ML,Statistics",IBM Data Science
+Alka,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Suresh,Product Manager,Senior Product Manager,4,"Roadmap,Agile,OKRs",CSPO
+Swati,ML Engineer,Senior ML Engineer,8,"Python,ML,AI",AWS ML
+Rohit,QA Engineer,QA Lead,10,"Selenium,API Testing",ISTQB
+Nisha,Data Analyst,Senior Analyst,10,"Python,SQL,Power BI",Azure DP-900
+Kavya,Data Analyst,Senior Analyst,12,"Python,SQL,Power BI",Azure DP-900
+Alka,Data Analyst,Senior Analyst,9,"Python,SQL,Power BI",Azure DP-900
+Nisha,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Tarun,UI Designer,UX Lead,4,"Figma,UX,Wireframing",Google UX
+Priya,Data Scientist,Senior Data Scientist,4,"Python,ML,Statistics",IBM Data Science
+Tarun,UI Designer,UX Lead,9,"Figma,UX,Wireframing",Google UX
+Pooja,QA Engineer,QA Lead,3,"Selenium,API Testing",ISTQB
+Anjali,QA Engineer,QA Lead,6,"Selenium,API Testing",ISTQB
+Neha,Software Engineer,Senior Software Engineer,10,"Java,Spring,SQL",Oracle Java
+Arjun,Data Analyst,Senior Analyst,3,"Python,SQL,Power BI",Azure DP-900
+Akash,UI Designer,UX Lead,2,"Figma,UX,Wireframing",Google UX
+Isha,QA Engineer,QA Lead,1,"Selenium,API Testing",ISTQB
+Nisha,ML Engineer,Senior ML Engineer,3,"Python,ML,AI",AWS ML
+Divya,Product Manager,Senior Product Manager,2,"Roadmap,Agile,OKRs",CSPO
+Akash,UI Designer,UX Lead,11,"Figma,UX,Wireframing",Google UX
+Alka,Business Analyst,Lead Analyst,6,"Excel,SQL,Stakeholder Mgmt",CBAP
+Rahul,Software Engineer,Senior Software Engineer,7,"Java,Spring,SQL",Oracle Java
+Tarun,DevOps Engineer,Senior DevOps Engineer,1,"AWS,Docker,Kubernetes",AWS DevOps
+Swati,ML Engineer,Senior ML Engineer,5,"Python,ML,AI",AWS ML
+Pooja,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Sahil,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Rahul,Data Analyst,Senior Analyst,11,"Python,SQL,Power BI",Azure DP-900
+Tarun,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Tarun,QA Engineer,QA Lead,7,"Selenium,API Testing",ISTQB
+Pooja,QA Engineer,QA Lead,10,"Selenium,API Testing",ISTQB
+Neha,QA Engineer,QA Lead,6,"Selenium,API Testing",ISTQB
+Pooja,Product Manager,Senior Product Manager,10,"Roadmap,Agile,OKRs",CSPO
+Alka,UI Designer,UX Lead,3,"Figma,UX,Wireframing",Google UX
+Swati,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Rohit,DevOps Engineer,Senior DevOps Engineer,8,"AWS,Docker,Kubernetes",AWS DevOps
+Ravi,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Alka,Data Analyst,Senior Analyst,6,"Python,SQL,Power BI",Azure DP-900
+Karan,QA Engineer,QA Lead,12,"Selenium,API Testing",ISTQB
+Mohit,QA Engineer,QA Lead,2,"Selenium,API Testing",ISTQB
+Priya,Data Scientist,Senior Data Scientist,5,"Python,ML,Statistics",IBM Data Science
+Anjali,Data Scientist,Senior Data Scientist,12,"Python,ML,Statistics",IBM Data Science
+Naveen,Business Analyst,Lead Analyst,12,"Excel,SQL,Stakeholder Mgmt",CBAP
+Tarun,UI Designer,UX Lead,9,"Figma,UX,Wireframing",Google UX
+Akash,UI Designer,UX Lead,12,"Figma,UX,Wireframing",Google UX
+Anjali,Product Manager,Senior Product Manager,11,"Roadmap,Agile,OKRs",CSPO
+Vikas,Software Engineer,Senior Software Engineer,11,"Java,Spring,SQL",Oracle Java
+Akash,Business Analyst,Lead Analyst,6,"Excel,SQL,Stakeholder Mgmt",CBAP
+Akash,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Rohit,HR Executive,HR Manager,8,"Recruitment,HRMS,Compliance",SHRM-CP
+Priya,DevOps Engineer,Senior DevOps Engineer,11,"AWS,Docker,Kubernetes",AWS DevOps
+Priya,Data Analyst,Senior Analyst,7,"Python,SQL,Power BI",Azure DP-900
+Arjun,HR Executive,HR Manager,12,"Recruitment,HRMS,Compliance",SHRM-CP
+Sneha,Software Engineer,Senior Software Engineer,12,"Java,Spring,SQL",Oracle Java
+Arjun,UI Designer,UX Lead,4,"Figma,UX,Wireframing",Google UX
+Tarun,UI Designer,UX Lead,11,"Figma,UX,Wireframing",Google UX
+Mohit,Software Engineer,Senior Software Engineer,6,"Java,Spring,SQL",Oracle Java
+Swati,HR Executive,HR Manager,1,"Recruitment,HRMS,Compliance",SHRM-CP
+Arjun,DevOps Engineer,Senior DevOps Engineer,5,"AWS,Docker,Kubernetes",AWS DevOps
+Pooja,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Arjun,HR Executive,HR Manager,7,"Recruitment,HRMS,Compliance",SHRM-CP
+Rahul,DevOps Engineer,Senior DevOps Engineer,6,"AWS,Docker,Kubernetes",AWS DevOps
+Alka,QA Engineer,QA Lead,6,"Selenium,API Testing",ISTQB
+Tarun,Product Manager,Senior Product Manager,5,"Roadmap,Agile,OKRs",CSPO
+Akash,HR Executive,HR Manager,5,"Recruitment,HRMS,Compliance",SHRM-CP
+Alka,Software Engineer,Senior Software Engineer,1,"Java,Spring,SQL",Oracle Java
+Neha,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Akash,Data Scientist,Senior Data Scientist,2,"Python,ML,Statistics",IBM Data Science
+Amit,Data Analyst,Senior Analyst,12,"Python,SQL,Power BI",Azure DP-900
+Divya,Software Engineer,Senior Software Engineer,10,"Java,Spring,SQL",Oracle Java
+Sneha,HR Executive,HR Manager,6,"Recruitment,HRMS,Compliance",SHRM-CP
+Isha,HR Executive,HR Manager,2,"Recruitment,HRMS,Compliance",SHRM-CP
+Sahil,Software Engineer,Senior Software Engineer,11,"Java,Spring,SQL",Oracle Java
+Divya,HR Executive,HR Manager,1,"Recruitment,HRMS,Compliance",SHRM-CP
+Akash,UI Designer,UX Lead,6,"Figma,UX,Wireframing",Google UX
+Neha,ML Engineer,Senior ML Engineer,6,"Python,ML,AI",AWS ML
+Meera,QA Engineer,QA Lead,7,"Selenium,API Testing",ISTQB
+Sneha,Software Engineer,Senior Software Engineer,12,"Java,Spring,SQL",Oracle Java
+Arjun,HR Executive,HR Manager,1,"Recruitment,HRMS,Compliance",SHRM-CP
+Priya,Data Scientist,Senior Data Scientist,8,"Python,ML,Statistics",IBM Data Science
+Isha,ML Engineer,Senior ML Engineer,3,"Python,ML,AI",AWS ML
+Rohit,DevOps Engineer,Senior DevOps Engineer,1,"AWS,Docker,Kubernetes",AWS DevOps
+Ravi,Product Manager,Senior Product Manager,12,"Roadmap,Agile,OKRs",CSPO
+Vikas,Business Analyst,Lead Analyst,2,"Excel,SQL,Stakeholder Mgmt",CBAP
+Karan,UI Designer,UX Lead,10,"Figma,UX,Wireframing",Google UX
+Pooja,Product Manager,Senior Product Manager,10,"Roadmap,Agile,OKRs",CSPO
+Amit,DevOps Engineer,Senior DevOps Engineer,6,"AWS,Docker,Kubernetes",AWS DevOps
+Manish,Data Analyst,Senior Analyst,2,"Python,SQL,Power BI",Azure DP-900
+Swati,Business Analyst,Lead Analyst,2,"Excel,SQL,Stakeholder Mgmt",CBAP
+Anjali,QA Engineer,QA Lead,1,"Selenium,API Testing",ISTQB
+Divya,Software Engineer,Senior Software Engineer,3,"Java,Spring,SQL",Oracle Java
+Meera,Data Scientist,Senior Data Scientist,2,"Python,ML,Statistics",IBM Data Science
+Simran,UI Designer,UX Lead,1,"Figma,UX,Wireframing",Google UX
+Anjali,HR Executive,HR Manager,1,"Recruitment,HRMS,Compliance",SHRM-CP
+Akash,Software Engineer,Senior Software Engineer,10,"Java,Spring,SQL",Oracle Java
+Nisha,ML Engineer,Senior ML Engineer,9,"Python,ML,AI",AWS ML
+Anjali,QA Engineer,QA Lead,6,"Selenium,API Testing",ISTQB
+Divya,ML Engineer,Senior ML Engineer,7,"Python,ML,AI",AWS ML
+Tarun,DevOps Engineer,Senior DevOps Engineer,8,"AWS,Docker,Kubernetes",AWS DevOps
+Simran,QA Engineer,QA Lead,11,"Selenium,API Testing",ISTQB
+Mohit,UI Designer,UX Lead,1,"Figma,UX,Wireframing",Google UX
+Meera,HR Executive,HR Manager,12,"Recruitment,HRMS,Compliance",SHRM-CP
+Manish,QA Engineer,QA Lead,9,"Selenium,API Testing",ISTQB
+Nisha,ML Engineer,Senior ML Engineer,3,"Python,ML,AI",AWS ML
+Tarun,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Vikas,ML Engineer,Senior ML Engineer,2,"Python,ML,AI",AWS ML
+Akash,Product Manager,Senior Product Manager,1,"Roadmap,Agile,OKRs",CSPO
+Akash,UI Designer,UX Lead,11,"Figma,UX,Wireframing",Google UX
+Tarun,Data Scientist,Senior Data Scientist,4,"Python,ML,Statistics",IBM Data Science
+Manish,Software Engineer,Senior Software Engineer,3,"Java,Spring,SQL",Oracle Java
+Vikas,Business Analyst,Lead Analyst,3,"Excel,SQL,Stakeholder Mgmt",CBAP
+Akash,Software Engineer,Senior Software Engineer,12,"Java,Spring,SQL",Oracle Java
+Arjun,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Sneha,UI Designer,UX Lead,3,"Figma,UX,Wireframing",Google UX
+Ravi,Data Analyst,Senior Analyst,7,"Python,SQL,Power BI",Azure DP-900
+Rahul,QA Engineer,QA Lead,6,"Selenium,API Testing",ISTQB
+Suresh,Data Scientist,Senior Data Scientist,11,"Python,ML,Statistics",IBM Data Science
+Akash,DevOps Engineer,Senior DevOps Engineer,10,"AWS,Docker,Kubernetes",AWS DevOps
+Manish,Data Analyst,Senior Analyst,5,"Python,SQL,Power BI",Azure DP-900
+Swati,HR Executive,HR Manager,5,"Recruitment,HRMS,Compliance",SHRM-CP
+Sahil,Data Analyst,Senior Analyst,12,"Python,SQL,Power BI",Azure DP-900
+Isha,Data Analyst,Senior Analyst,6,"Python,SQL,Power BI",Azure DP-900
+Nisha,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Vikas,Data Analyst,Senior Analyst,3,"Python,SQL,Power BI",Azure DP-900
+Amit,Data Scientist,Senior Data Scientist,2,"Python,ML,Statistics",IBM Data Science
+Manish,DevOps Engineer,Senior DevOps Engineer,4,"AWS,Docker,Kubernetes",AWS DevOps
+Isha,QA Engineer,QA Lead,9,"Selenium,API Testing",ISTQB
+Manish,Product Manager,Senior Product Manager,2,"Roadmap,Agile,OKRs",CSPO
+Neha,Data Analyst,Senior Analyst,9,"Python,SQL,Power BI",Azure DP-900
+Rahul,Data Analyst,Senior Analyst,4,"Python,SQL,Power BI",Azure DP-900
+Nisha,Software Engineer,Senior Software Engineer,4,"Java,Spring,SQL",Oracle Java
+Ritika,Data Scientist,Senior Data Scientist,1,"Python,ML,Statistics",IBM Data Science
+Sahil,ML Engineer,Senior ML Engineer,2,"Python,ML,AI",AWS ML
+Ritika,Data Analyst,Senior Analyst,3,"Python,SQL,Power BI",Azure DP-900
+Isha,QA Engineer,QA Lead,9,"Selenium,API Testing",ISTQB
+Arjun,HR Executive,HR Manager,11,"Recruitment,HRMS,Compliance",SHRM-CP
+Mohit,Data Analyst,Senior Analyst,9,"Python,SQL,Power BI",Azure DP-900
+Rohit,HR Executive,HR Manager,5,"Recruitment,HRMS,Compliance",SHRM-CP
+Ritika,UI Designer,UX Lead,9,"Figma,UX,Wireframing",Google UX
+Manish,Software Engineer,Senior Software Engineer,3,"Java,Spring,SQL",Oracle Java
+Rahul,Software Engineer,Senior Software Engineer,7,"Java,Spring,SQL",Oracle Java
+Vikas,HR Executive,HR Manager,6,"Recruitment,HRMS,Compliance",SHRM-CP
+Neha,UI Designer,UX Lead,6,"Figma,UX,Wireframing",Google UX
+Suresh,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Isha,Product Manager,Senior Product Manager,12,"Roadmap,Agile,OKRs",CSPO
+Simran,Data Analyst,Senior Analyst,7,"Python,SQL,Power BI",Azure DP-900
+Rohit,ML Engineer,Senior ML Engineer,9,"Python,ML,AI",AWS ML
+Naveen,UI Designer,UX Lead,9,"Figma,UX,Wireframing",Google UX
+Isha,HR Executive,HR Manager,10,"Recruitment,HRMS,Compliance",SHRM-CP
+Meera,DevOps Engineer,Senior DevOps Engineer,6,"AWS,Docker,Kubernetes",AWS DevOps
+Meera,UI Designer,UX Lead,8,"Figma,UX,Wireframing",Google UX
+Priya,Data Scientist,Senior Data Scientist,6,"Python,ML,Statistics",IBM Data Science
+Deepak,Software Engineer,Senior Software Engineer,11,"Java,Spring,SQL",Oracle Java
+Kavya,DevOps Engineer,Senior DevOps Engineer,2,"AWS,Docker,Kubernetes",AWS DevOps
+Suresh,HR Executive,HR Manager,12,"Recruitment,HRMS,Compliance",SHRM-CP
+Sahil,Software Engineer,Senior Software Engineer,6,"Java,Spring,SQL",Oracle Java
+Deepak,Data Analyst,Senior Analyst,6,"Python,SQL,Power BI",Azure DP-900
+Alka,QA Engineer,QA Lead,3,"Selenium,API Testing",ISTQB
+Varun,Data Scientist,Senior Data Scientist,7,"Python,ML,Statistics",IBM Data Science
+Meera,UI Designer,UX Lead,10,"Figma,UX,Wireframing",Google UX
+Kavya,QA Engineer,QA Lead,10,"Selenium,API Testing",ISTQB
+Swati,ML Engineer,Senior ML Engineer,6,"Python,ML,AI",AWS ML
+Swati,Software Engineer,Senior Software Engineer,10,"Java,Spring,SQL",Oracle Java
+Anjali,UI Designer,UX Lead,4,"Figma,UX,Wireframing",Google UX
+Swati,Data Scientist,Senior Data Scientist,10,"Python,ML,Statistics",IBM Data Science
+Mohit,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Manish,HR Executive,HR Manager,5,"Recruitment,HRMS,Compliance",SHRM-CP
+Suresh,ML Engineer,Senior ML Engineer,3,"Python,ML,AI",AWS ML
+Ravi,UI Designer,UX Lead,10,"Figma,UX,Wireframing",Google UX
+Karan,Data Scientist,Senior Data Scientist,4,"Python,ML,Statistics",IBM Data Science
+Sahil,UI Designer,UX Lead,8,"Figma,UX,Wireframing",Google UX
+Meera,QA Engineer,QA Lead,9,"Selenium,API Testing",ISTQB
+Priya,Software Engineer,Senior Software Engineer,12,"Java,Spring,SQL",Oracle Java
+Karan,Data Scientist,Senior Data Scientist,6,"Python,ML,Statistics",IBM Data Science
+Mohit,HR Executive,HR Manager,6,"Recruitment,HRMS,Compliance",SHRM-CP
+Deepak,DevOps Engineer,Senior DevOps Engineer,1,"AWS,Docker,Kubernetes",AWS DevOps
+Sahil,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Arjun,ML Engineer,Senior ML Engineer,11,"Python,ML,AI",AWS ML
+Anjali,HR Executive,HR Manager,1,"Recruitment,HRMS,Compliance",SHRM-CP
+Pooja,Data Analyst,Senior Analyst,10,"Python,SQL,Power BI",Azure DP-900
+Sneha,Data Analyst,Senior Analyst,8,"Python,SQL,Power BI",Azure DP-900
+Akash,QA Engineer,QA Lead,2,"Selenium,API Testing",ISTQB
+Nisha,Data Analyst,Senior Analyst,5,"Python,SQL,Power BI",Azure DP-900
+Deepak,DevOps Engineer,Senior DevOps Engineer,4,"AWS,Docker,Kubernetes",AWS DevOps
+Arjun,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Pooja,QA Engineer,QA Lead,3,"Selenium,API Testing",ISTQB
+Tarun,Business Analyst,Lead Analyst,3,"Excel,SQL,Stakeholder Mgmt",CBAP
+Amit,Software Engineer,Senior Software Engineer,7,"Java,Spring,SQL",Oracle Java
+Amit,QA Engineer,QA Lead,10,"Selenium,API Testing",ISTQB
+Rohit,Data Scientist,Senior Data Scientist,9,"Python,ML,Statistics",IBM Data Science
+Meera,Product Manager,Senior Product Manager,2,"Roadmap,Agile,OKRs",CSPO
+Priya,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Amit,Business Analyst,Lead Analyst,9,"Excel,SQL,Stakeholder Mgmt",CBAP
+Alka,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Priya,Data Analyst,Senior Analyst,4,"Python,SQL,Power BI",Azure DP-900
+Meera,Data Analyst,Senior Analyst,10,"Python,SQL,Power BI",Azure DP-900
+Sahil,HR Executive,HR Manager,10,"Recruitment,HRMS,Compliance",SHRM-CP
+Vikas,Software Engineer,Senior Software Engineer,4,"Java,Spring,SQL",Oracle Java
+Swati,UI Designer,UX Lead,8,"Figma,UX,Wireframing",Google UX
+Ravi,UI Designer,UX Lead,10,"Figma,UX,Wireframing",Google UX
+Akash,DevOps Engineer,Senior DevOps Engineer,2,"AWS,Docker,Kubernetes",AWS DevOps
+Alka,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Rohit,HR Executive,HR Manager,11,"Recruitment,HRMS,Compliance",SHRM-CP
+Swati,Business Analyst,Lead Analyst,10,"Excel,SQL,Stakeholder Mgmt",CBAP
+Sahil,ML Engineer,Senior ML Engineer,10,"Python,ML,AI",AWS ML
+Pooja,ML Engineer,Senior ML Engineer,4,"Python,ML,AI",AWS ML
+Varun,Business Analyst,Lead Analyst,8,"Excel,SQL,Stakeholder Mgmt",CBAP
+Anjali,Data Analyst,Senior Analyst,10,"Python,SQL,Power BI",Azure DP-900
+Karan,HR Executive,HR Manager,11,"Recruitment,HRMS,Compliance",SHRM-CP
+Swati,Software Engineer,Senior Software Engineer,4,"Java,Spring,SQL",Oracle Java
+Swati,Data Scientist,Senior Data Scientist,4,"Python,ML,Statistics",IBM Data Science
+Isha,Product Manager,Senior Product Manager,4,"Roadmap,Agile,OKRs",CSPO
+Varun,Data Scientist,Senior Data Scientist,2,"Python,ML,Statistics",IBM Data Science
+Sneha,Business Analyst,Lead Analyst,6,"Excel,SQL,Stakeholder Mgmt",CBAP
+Manish,Product Manager,Senior Product Manager,12,"Roadmap,Agile,OKRs",CSPO
+Divya,DevOps Engineer,Senior DevOps Engineer,11,"AWS,Docker,Kubernetes",AWS DevOps
+Meera,Data Analyst,Senior Analyst,9,"Python,SQL,Power BI",Azure DP-900
+Amit,ML Engineer,Senior ML Engineer,9,"Python,ML,AI",AWS ML
+Manish,UI Designer,UX Lead,5,"Figma,UX,Wireframing",Google UX
+Sahil,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Rohit,QA Engineer,QA Lead,9,"Selenium,API Testing",ISTQB
+Isha,Data Analyst,Senior Analyst,9,"Python,SQL,Power BI",Azure DP-900
+Manish,Product Manager,Senior Product Manager,1,"Roadmap,Agile,OKRs",CSPO
+Arjun,HR Executive,HR Manager,2,"Recruitment,HRMS,Compliance",SHRM-CP
+Meera,ML Engineer,Senior ML Engineer,6,"Python,ML,AI",AWS ML
+Simran,Data Scientist,Senior Data Scientist,11,"Python,ML,Statistics",IBM Data Science
+Divya,Business Analyst,Lead Analyst,3,"Excel,SQL,Stakeholder Mgmt",CBAP
+Anjali,Business Analyst,Lead Analyst,2,"Excel,SQL,Stakeholder Mgmt",CBAP
+Akash,HR Executive,HR Manager,4,"Recruitment,HRMS,Compliance",SHRM-CP
+Priya,Data Scientist,Senior Data Scientist,8,"Python,ML,Statistics",IBM Data Science
+Pooja,DevOps Engineer,Senior DevOps Engineer,7,"AWS,Docker,Kubernetes",AWS DevOps
+Arjun,Business Analyst,Lead Analyst,8,"Excel,SQL,Stakeholder Mgmt",CBAP
+Tarun,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Arjun,UI Designer,UX Lead,6,"Figma,UX,Wireframing",Google UX
+Amit,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Mohit,HR Executive,HR Manager,7,"Recruitment,HRMS,Compliance",SHRM-CP
+Deepak,Data Analyst,Senior Analyst,1,"Python,SQL,Power BI",Azure DP-900
+Priya,Data Analyst,Senior Analyst,1,"Python,SQL,Power BI",Azure DP-900
+Tarun,ML Engineer,Senior ML Engineer,12,"Python,ML,AI",AWS ML
+Tarun,ML Engineer,Senior ML Engineer,10,"Python,ML,AI",AWS ML
+Naveen,ML Engineer,Senior ML Engineer,1,"Python,ML,AI",AWS ML
+Ravi,Data Scientist,Senior Data Scientist,10,"Python,ML,Statistics",IBM Data Science
+Priya,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Ritika,HR Executive,HR Manager,10,"Recruitment,HRMS,Compliance",SHRM-CP
+Manish,ML Engineer,Senior ML Engineer,6,"Python,ML,AI",AWS ML
+Naveen,UI Designer,UX Lead,2,"Figma,UX,Wireframing",Google UX
+Pooja,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Tarun,Software Engineer,Senior Software Engineer,2,"Java,Spring,SQL",Oracle Java
+Karan,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Arjun,Software Engineer,Senior Software Engineer,4,"Java,Spring,SQL",Oracle Java
+Sahil,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Pooja,Business Analyst,Lead Analyst,3,"Excel,SQL,Stakeholder Mgmt",CBAP
+Swati,UI Designer,UX Lead,12,"Figma,UX,Wireframing",Google UX
+Vikas,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Manish,UI Designer,UX Lead,5,"Figma,UX,Wireframing",Google UX
+Deepak,Data Scientist,Senior Data Scientist,1,"Python,ML,Statistics",IBM Data Science
+Simran,ML Engineer,Senior ML Engineer,4,"Python,ML,AI",AWS ML
+Tarun,DevOps Engineer,Senior DevOps Engineer,3,"AWS,Docker,Kubernetes",AWS DevOps
+Rohit,Software Engineer,Senior Software Engineer,10,"Java,Spring,SQL",Oracle Java
+Anjali,Product Manager,Senior Product Manager,1,"Roadmap,Agile,OKRs",CSPO
+Nisha,Data Analyst,Senior Analyst,2,"Python,SQL,Power BI",Azure DP-900
+Kavya,UI Designer,UX Lead,10,"Figma,UX,Wireframing",Google UX
+Ravi,HR Executive,HR Manager,7,"Recruitment,HRMS,Compliance",SHRM-CP
+Alka,Data Analyst,Senior Analyst,12,"Python,SQL,Power BI",Azure DP-900
+Akash,HR Executive,HR Manager,8,"Recruitment,HRMS,Compliance",SHRM-CP
+Priya,DevOps Engineer,Senior DevOps Engineer,7,"AWS,Docker,Kubernetes",AWS DevOps
+Deepak,DevOps Engineer,Senior DevOps Engineer,3,"AWS,Docker,Kubernetes",AWS DevOps
+Karan,Data Analyst,Senior Analyst,9,"Python,SQL,Power BI",Azure DP-900
+Amit,QA Engineer,QA Lead,4,"Selenium,API Testing",ISTQB
+Swati,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Deepak,Product Manager,Senior Product Manager,10,"Roadmap,Agile,OKRs",CSPO
+Deepak,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Kavya,HR Executive,HR Manager,9,"Recruitment,HRMS,Compliance",SHRM-CP
+Divya,Product Manager,Senior Product Manager,6,"Roadmap,Agile,OKRs",CSPO
+Tarun,Business Analyst,Lead Analyst,4,"Excel,SQL,Stakeholder Mgmt",CBAP
+Neha,Software Engineer,Senior Software Engineer,2,"Java,Spring,SQL",Oracle Java
+Deepak,Product Manager,Senior Product Manager,8,"Roadmap,Agile,OKRs",CSPO
+Varun,HR Executive,HR Manager,2,"Recruitment,HRMS,Compliance",SHRM-CP
+Naveen,ML Engineer,Senior ML Engineer,6,"Python,ML,AI",AWS ML
+Nisha,UI Designer,UX Lead,2,"Figma,UX,Wireframing",Google UX
+Alka,QA Engineer,QA Lead,11,"Selenium,API Testing",ISTQB
+Pooja,Product Manager,Senior Product Manager,3,"Roadmap,Agile,OKRs",CSPO
+Swati,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Divya,HR Executive,HR Manager,3,"Recruitment,HRMS,Compliance",SHRM-CP
+Vikas,Product Manager,Senior Product Manager,4,"Roadmap,Agile,OKRs",CSPO
+Mohit,Product Manager,Senior Product Manager,11,"Roadmap,Agile,OKRs",CSPO
+Akash,Data Scientist,Senior Data Scientist,5,"Python,ML,Statistics",IBM Data Science
+Akash,DevOps Engineer,Senior DevOps Engineer,12,"AWS,Docker,Kubernetes",AWS DevOps
+Neha,DevOps Engineer,Senior DevOps Engineer,10,"AWS,Docker,Kubernetes",AWS DevOps
+Kavya,QA Engineer,QA Lead,7,"Selenium,API Testing",ISTQB
+Rahul,Business Analyst,Lead Analyst,9,"Excel,SQL,Stakeholder Mgmt",CBAP
+Manish,Software Engineer,Senior Software Engineer,6,"Java,Spring,SQL",Oracle Java
+Amit,UI Designer,UX Lead,8,"Figma,UX,Wireframing",Google UX
+Manish,Data Scientist,Senior Data Scientist,12,"Python,ML,Statistics",IBM Data Science
+Manish,Business Analyst,Lead Analyst,1,"Excel,SQL,Stakeholder Mgmt",CBAP
+Pooja,Product Manager,Senior Product Manager,12,"Roadmap,Agile,OKRs",CSPO
+Ritika,Software Engineer,Senior Software Engineer,4,"Java,Spring,SQL",Oracle Java
+Arjun,QA Engineer,QA Lead,8,"Selenium,API Testing",ISTQB
+Kavya,ML Engineer,Senior ML Engineer,1,"Python,ML,AI",AWS ML
+Rahul,HR Executive,HR Manager,7,"Recruitment,HRMS,Compliance",SHRM-CP
+Rahul,DevOps Engineer,Senior DevOps Engineer,10,"AWS,Docker,Kubernetes",AWS DevOps
+Arjun,Product Manager,Senior Product Manager,11,"Roadmap,Agile,OKRs",CSPO
+Tarun,Data Scientist,Senior Data Scientist,8,"Python,ML,Statistics",IBM Data Science
+Simran,DevOps Engineer,Senior DevOps Engineer,1,"AWS,Docker,Kubernetes",AWS DevOps
+Tarun,Business Analyst,Lead Analyst,12,"Excel,SQL,Stakeholder Mgmt",CBAP
+Ravi,Data Scientist,Senior Data Scientist,4,"Python,ML,Statistics",IBM Data Science
+Naveen,QA Engineer,QA Lead,8,"Selenium,API Testing",ISTQB
+Naveen,DevOps Engineer,Senior DevOps Engineer,7,"AWS,Docker,Kubernetes",AWS DevOps
+Simran,Data Analyst,Senior Analyst,8,"Python,SQL,Power BI",Azure DP-900
+Anjali,Data Analyst,Senior Analyst,12,"Python,SQL,Power BI",Azure DP-900
+Vikas,Data Analyst,Senior Analyst,9,"Python,SQL,Power BI",Azure DP-900
+Kavya,Software Engineer,Senior Software Engineer,7,"Java,Spring,SQL",Oracle Java
+Anjali,Data Analyst,Senior Analyst,5,"Python,SQL,Power BI",Azure DP-900
+Neha,DevOps Engineer,Senior DevOps Engineer,1,"AWS,Docker,Kubernetes",AWS DevOps
+Kavya,Business Analyst,Lead Analyst,2,"Excel,SQL,Stakeholder Mgmt",CBAP
+Rohit,Business Analyst,Lead Analyst,9,"Excel,SQL,Stakeholder Mgmt",CBAP
+Vikas,Product Manager,Senior Product Manager,3,"Roadmap,Agile,OKRs",CSPO
+Divya,DevOps Engineer,Senior DevOps Engineer,3,"AWS,Docker,Kubernetes",AWS DevOps
+Rohit,Product Manager,Senior Product Manager,12,"Roadmap,Agile,OKRs",CSPO
+Priya,Data Scientist,Senior Data Scientist,7,"Python,ML,Statistics",IBM Data Science
+Pooja,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Rahul,Data Scientist,Senior Data Scientist,9,"Python,ML,Statistics",IBM Data Science
+Mohit,Data Analyst,Senior Analyst,9,"Python,SQL,Power BI",Azure DP-900
+Karan,QA Engineer,QA Lead,10,"Selenium,API Testing",ISTQB
+Varun,Data Scientist,Senior Data Scientist,3,"Python,ML,Statistics",IBM Data Science
+Tarun,DevOps Engineer,Senior DevOps Engineer,11,"AWS,Docker,Kubernetes",AWS DevOps
+Sahil,ML Engineer,Senior ML Engineer,8,"Python,ML,AI",AWS ML
+Mohit,QA Engineer,QA Lead,3,"Selenium,API Testing",ISTQB
+Neha,QA Engineer,QA Lead,1,"Selenium,API Testing",ISTQB
+Tarun,Product Manager,Senior Product Manager,3,"Roadmap,Agile,OKRs",CSPO
+Tarun,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Neha,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Nisha,QA Engineer,QA Lead,1,"Selenium,API Testing",ISTQB
+Ritika,Data Scientist,Senior Data Scientist,9,"Python,ML,Statistics",IBM Data Science
+Priya,Product Manager,Senior Product Manager,2,"Roadmap,Agile,OKRs",CSPO
+Suresh,Data Analyst,Senior Analyst,2,"Python,SQL,Power BI",Azure DP-900
+Akash,Data Scientist,Senior Data Scientist,11,"Python,ML,Statistics",IBM Data Science
+Divya,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Alka,DevOps Engineer,Senior DevOps Engineer,3,"AWS,Docker,Kubernetes",AWS DevOps
+Varun,Data Analyst,Senior Analyst,1,"Python,SQL,Power BI",Azure DP-900
+Divya,HR Executive,HR Manager,8,"Recruitment,HRMS,Compliance",SHRM-CP
+Ritika,DevOps Engineer,Senior DevOps Engineer,10,"AWS,Docker,Kubernetes",AWS DevOps
+Naveen,Product Manager,Senior Product Manager,11,"Roadmap,Agile,OKRs",CSPO
+Rohit,ML Engineer,Senior ML Engineer,1,"Python,ML,AI",AWS ML
+Kavya,DevOps Engineer,Senior DevOps Engineer,1,"AWS,Docker,Kubernetes",AWS DevOps
+Rahul,HR Executive,HR Manager,11,"Recruitment,HRMS,Compliance",SHRM-CP
+Anjali,QA Engineer,QA Lead,8,"Selenium,API Testing",ISTQB
+Arjun,Software Engineer,Senior Software Engineer,3,"Java,Spring,SQL",Oracle Java
+Pooja,Software Engineer,Senior Software Engineer,1,"Java,Spring,SQL",Oracle Java
+Sahil,ML Engineer,Senior ML Engineer,11,"Python,ML,AI",AWS ML
+Manish,HR Executive,HR Manager,4,"Recruitment,HRMS,Compliance",SHRM-CP
+Isha,DevOps Engineer,Senior DevOps Engineer,5,"AWS,Docker,Kubernetes",AWS DevOps
+Simran,UI Designer,UX Lead,3,"Figma,UX,Wireframing",Google UX
+Divya,HR Executive,HR Manager,9,"Recruitment,HRMS,Compliance",SHRM-CP
+Vikas,DevOps Engineer,Senior DevOps Engineer,2,"AWS,Docker,Kubernetes",AWS DevOps
+Mohit,DevOps Engineer,Senior DevOps Engineer,3,"AWS,Docker,Kubernetes",AWS DevOps
+Arjun,UI Designer,UX Lead,2,"Figma,UX,Wireframing",Google UX
+Tarun,Business Analyst,Lead Analyst,9,"Excel,SQL,Stakeholder Mgmt",CBAP
+Rohit,UI Designer,UX Lead,5,"Figma,UX,Wireframing",Google UX
+Deepak,HR Executive,HR Manager,8,"Recruitment,HRMS,Compliance",SHRM-CP
+Akash,DevOps Engineer,Senior DevOps Engineer,8,"AWS,Docker,Kubernetes",AWS DevOps
+Pooja,UI Designer,UX Lead,9,"Figma,UX,Wireframing",Google UX
+Vikas,Data Scientist,Senior Data Scientist,5,"Python,ML,Statistics",IBM Data Science
+Neha,QA Engineer,QA Lead,5,"Selenium,API Testing",ISTQB
+Rohit,Software Engineer,Senior Software Engineer,5,"Java,Spring,SQL",Oracle Java
+Rahul,Software Engineer,Senior Software Engineer,4,"Java,Spring,SQL",Oracle Java
+Arjun,HR Executive,HR Manager,3,"Recruitment,HRMS,Compliance",SHRM-CP
+Simran,Product Manager,Senior Product Manager,11,"Roadmap,Agile,OKRs",CSPO
+Amit,DevOps Engineer,Senior DevOps Engineer,3,"AWS,Docker,Kubernetes",AWS DevOps
+Ritika,DevOps Engineer,Senior DevOps Engineer,8,"AWS,Docker,Kubernetes",AWS DevOps
+Naveen,Data Scientist,Senior Data Scientist,5,"Python,ML,Statistics",IBM Data Science
+Manish,Business Analyst,Lead Analyst,12,"Excel,SQL,Stakeholder Mgmt",CBAP
+Divya,Product Manager,Senior Product Manager,12,"Roadmap,Agile,OKRs",CSPO
+Varun,UI Designer,UX Lead,1,"Figma,UX,Wireframing",Google UX
+Akash,UI Designer,UX Lead,1,"Figma,UX,Wireframing",Google UX
+Karan,HR Executive,HR Manager,4,"Recruitment,HRMS,Compliance",SHRM-CP
+Meera,ML Engineer,Senior ML Engineer,3,"Python,ML,AI",AWS ML
+Meera,Data Scientist,Senior Data Scientist,11,"Python,ML,Statistics",IBM Data Science
+Manish,Product Manager,Senior Product Manager,5,"Roadmap,Agile,OKRs",CSPO
+Vikas,HR Executive,HR Manager,4,"Recruitment,HRMS,Compliance",SHRM-CP
+Anjali,Business Analyst,Lead Analyst,3,"Excel,SQL,Stakeholder Mgmt",CBAP
+Sahil,UI Designer,UX Lead,10,"Figma,UX,Wireframing",Google UX
+Kavya,Product Manager,Senior Product Manager,9,"Roadmap,Agile,OKRs",CSPO
+Divya,Data Scientist,Senior Data Scientist,8,"Python,ML,Statistics",IBM Data Science
+Manish,Data Scientist,Senior Data Scientist,10,"Python,ML,Statistics",IBM Data Science
+Rahul,Business Analyst,Lead Analyst,12,"Excel,SQL,Stakeholder Mgmt",CBAP
+Deepak,Product Manager,Senior Product Manager,12,"Roadmap,Agile,OKRs",CSPO
+Vikas,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Rohit,DevOps Engineer,Senior DevOps Engineer,11,"AWS,Docker,Kubernetes",AWS DevOps
+Arjun,HR Executive,HR Manager,11,"Recruitment,HRMS,Compliance",SHRM-CP
+Swati,Software Engineer,Senior Software Engineer,5,"Java,Spring,SQL",Oracle Java
+Vikas,UI Designer,UX Lead,7,"Figma,UX,Wireframing",Google UX
+Rohit,Business Analyst,Lead Analyst,7,"Excel,SQL,Stakeholder Mgmt",CBAP
+Naveen,Business Analyst,Lead Analyst,5,"Excel,SQL,Stakeholder Mgmt",CBAP
+Divya,UI Designer,UX Lead,12,"Figma,UX,Wireframing",Google UX
+Isha,Business Analyst,Lead Analyst,12,"Excel,SQL,Stakeholder Mgmt",CBAP
+Akash,Business Analyst,Lead Analyst,10,"Excel,SQL,Stakeholder Mgmt",CBAP
+Karan,QA Engineer,QA Lead,8,"Selenium,API Testing",ISTQB
+Mohit,HR Executive,HR Manager,10,"Recruitment,HRMS,Compliance",SHRM-CP
+Pooja,Product Manager,Senior Product Manager,12,"Roadmap,Agile,OKRs",CSPO
+Pooja,DevOps Engineer,Senior DevOps Engineer,11,"AWS,Docker,Kubernetes",AWS DevOps
+Neha,Data Scientist,Senior Data Scientist,5,"Python,ML,Statistics",IBM Data Science
+Varun,Data Scientist,Senior Data Scientist,7,"Python,ML,Statistics",IBM Data Science
+Akash,Business Analyst,Lead Analyst,10,"Excel,SQL,Stakeholder Mgmt",CBAP
+Sahil,Data Analyst,Senior Analyst,7,"Python,SQL,Power BI",Azure DP-900
+Simran,ML Engineer,Senior ML Engineer,4,"Python,ML,AI",AWS ML
+Pooja,UI Designer,UX Lead,2,"Figma,UX,Wireframing",Google UX
+Varun,Data Scientist,Senior Data Scientist,2,"Python,ML,Statistics",IBM Data Science
+Anjali,Data Scientist,Senior Data Scientist,11,"Python,ML,Statistics",IBM Data Science
