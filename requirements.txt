@@ -5,3 +5,5 @@ pandas
 reportlab
 matplotlib
 numpy
+python-docx
+
